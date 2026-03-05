@@ -54,17 +54,14 @@ GitHub · VS Code · Streamlit · Google Sheets · Colab · Flask · Excel · Go
 *Jul–Aug 2025*  
 > Developed predictive pipelines across 300+ B2B firms using scikit-learn & SQL. Streamlined logistics & retail workflows using clustering models and optimization-based dashboards.
 
-### Valeo Ind. Pvt. Ltd. — *Research & Development*  
+### Valeo Ind. Pvt. Ltd. — *R&D Intern*  
 *Aug–Oct 2024*  
 > Built and deployed regression-based demand forecasting models across 200+ distributors. Delivered insights to support operational decision-making and inventory scaling.
 
-### JP Motors — *Quant Analytics Intern*  
+### JP Motors — *ML Intern*  
 *May–Jul 2024*  
 > Analyzed SKU-level time-series data across 300+ retail points. Designed dashboards for optimal procurement using moving averages, linear regressors, and conditional logic.
 
-### Goldman Sachs & Forage — *Risk Analyst*  
-*Jun 2024*  
-> Built scenario-based personal finance models, risk mitigation frameworks, and analyzed volatility simulations.
 
 ---
 
