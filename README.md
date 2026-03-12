@@ -78,7 +78,7 @@ GitHub · VS Code · Streamlit · Google Sheets · Colab · Flask · Excel · Go
 ## 📚 Education
 
 **University of California, San Diego** (2025–2029)  
-BS in Data Science + Math-CS (Double Major)  
+BS in Data Science + Math 
 • Extended Studies: Post-Bacc Research Credit (3 units)
 
 ---
