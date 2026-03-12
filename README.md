@@ -13,7 +13,6 @@
 - Published CNN researcher; accepted to 7 international conferences (incl. Oxford)
 - Lumiere Research Scholar | Co-author on multilingual robotics + LLMs research with UPenn
 - Internship experience across **Valeo, JP Motors, Evoastra**
-- Studying Real Analysis, Proofs, and preparing for the **Putnam Competition**
 
 ---
 
