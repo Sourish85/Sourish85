@@ -2,7 +2,7 @@
 <h1 align="left">Hi, I'm Sourish Suri 👋</h1>
 
 <p align="left">
-🎓 BS in Data Science, BS in Mathematics - Computer Science @ UC San Diego<br>
+🎓 BS in Data Science, BS in Mathematics @ UC San Diego<br>
 📊 Aspiring Quant | ML Researcher | NPO Founder<br>
 🔭 Passionate about Quant Finance, ML Systems, and Applied Research
 </p>
