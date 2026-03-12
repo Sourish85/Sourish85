@@ -3,8 +3,6 @@
 
 <p align="left">
 🎓 BS in Data Science, BS in Mathematics @ UC San Diego<br>
-📊 Aspiring Quant | ML Researcher | NPO Founder<br>
-🔭 Passionate about Quant Finance, ML Systems, and Applied Research
 </p>
 
 ---
